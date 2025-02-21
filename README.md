@@ -22,14 +22,14 @@ In this assignment, you will learn the practical skills of containerizing applic
 - Run the Container: Demonstrate how to run your application within a container. Ensure that it starts up correctly and functions as expected.
 - Documentation: Provide clear documentation on how to build, run, and test your containerized application.
 ### 3.	Project Specifications:
--The application must include dependencies or libraries that, without containerization, would not run properly on platforms other than the one it was designed for.
--Clearly document any challenges you encountered and how containerization helped resolve them.
--Ensure your project is self-contained. Anyone with Docker installed should be able to clone your repository, build the image, and run your application without additional platform-specific configuration.
+- The application must include dependencies or libraries that, without containerization, would not run properly on platforms other than the one it was designed for.
+- Clearly document any challenges you encountered and how containerization helped resolve them.
+- Ensure your project is self-contained. Anyone with Docker installed should be able to clone your repository, build the image, and run your application without additional platform-specific configuration.
 
 ## Deliverables:
 ### 1.	Source Code Repository: 
 	- All source code including the Dockerfile, any configuration files, and the application code.
-	 - A README file that includes: 
+	 - **A README file that includes:** 
 	- An overview of your project and its platform-specific dependencies.
 	- Step-by-step instructions on how to build and run your Docker container.
 	- Any additional setup or configuration details.
