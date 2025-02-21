@@ -1,6 +1,5 @@
 # CYBR 460 Cloud-Computing & Virtualization Project 1 Description
 
-
 ##Project 1 – Containerizing Applications with Docker
 ________________________________________
 ##Overview:
