@@ -29,7 +29,7 @@ In this assignment, you will learn the practical skills of containerizing applic
 ## Deliverables:
 ### 1.	Source Code Repository: 
 - All source code including the Dockerfile, any configuration files, and the application code.
-- **A README file that includes:** 
+#### A README file that includes:
 - An overview of your project and its platform-specific dependencies.
 - Step-by-step instructions on how to build and run your Docker container.
 - Any additional setup or configuration details.
