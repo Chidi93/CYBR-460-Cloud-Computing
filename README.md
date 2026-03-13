@@ -29,7 +29,7 @@ In this assignment, you will learn the practical skills of containerizing applic
 
 ## Deliverables:
 ### 1.	Source Code Repository: 
-- All source code including the Dockerfile, any configuration files, and the application code.
+- All source code, including the Dockerfile, any configuration files, and the application code.
 #### A README file that includes:
 - An overview of your project and its platform-specific dependencies.
 - Step-by-step instructions on how to build and run your Docker container.
@@ -61,7 +61,8 @@ A short video (3-5 minutes) demonstrating your containerized application in acti
 - Clear and effective demonstration of the containerization process and application functionality.
 
 ## Submission Instructions:
-- Submit all your files including docker files, ReadMe, detailed report, and video via the GitHub submission link. 
+- Ensure that your GitHub repo contains all your files, including application code, Docker files, ReadMe, and a detailed report
+- Submit your video Demo and GitHub link to Canvas.
 - Make sure all submission materials are organized and clearly labeled.
 
 ## Important Notes:
