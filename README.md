@@ -3,7 +3,8 @@
 ## Project 1 – Containerizing Applications with Docker
 ________________________________________
 ## Overview:
-In this assignment, you will learn the practical skills of containerizing applications using Docker. You can choose to containerize an innovative project you have previously developed, one that was built to run on a specific platform with unique dependencies, or build a new application with platform-specific dependencies. The goal is to create a Dockerized application that runs independently of its host platform, thereby overcoming the challenges of environment-specific libraries or configurations.
+In this assignment, you will learn the practical skills of containerizing applications using Docker. You can choose to containerize an innovative project you have previously developed, one that was built to run on a specific platform with unique dependencies, or build a new application with platform-specific dependencies. The goal is to create a Dockerized application that runs independently of its host platform, thereby overcoming the challenges of environment-specific libraries or configurations. 
+**Important:** The individual Docker assignment completed earlier in the course cannot be reused for this group project. Your group project must be more complex and innovative than the individual Docker assignment.
 
 ## Objectives:
 - Understand Containerization: Learn the fundamental concepts behind containers and how Docker abstracts application dependencies from the underlying operating system.
